@@ -1,36 +1,31 @@
 ---
-title: "OBS Productions Portfolio"
-description: "Creative Video & Film Production - A showcase of our finest work across commercials, corporate videos, events, and creative content."
+title: "OBS Productions"
+description: "Creative Video & Film Production Portfolio"
 resources:
-  - src: "/images/camera-pro.jpg"
+  - src: camera-pro.jpg
+    title: "Professional RED Camera Production"
     params:
-      cover: true
-      description: "Professional RED camera setup for commercial production"
-  - src: "/images/studio-light.jpg"
+      tags: ["commercial", "cinematography"]
+  - src: conference.jpg
+    title: "Corporate Conference Coverage"
     params:
-      description: "Professional studio lighting setup"
-  - src: "/images/photographer.jpg"
+      tags: ["corporate", "events"]
+  - src: studio-light.jpg
+    title: "Professional Studio Portraits"
     params:
-      description: "Photographer capturing brand stories"
-  - src: "/images/conference.jpg"
+      tags: ["creative", "studio"]
+  - src: photographer.jpg
+    title: "Brand Storytelling"
     params:
-      description: "Corporate conference room setup"
-  - src: "/images/corporate.jpg"
+      tags: ["commercial", "branding"]
+  - src: corporate.jpg
+    title: "Team Collaboration Videos"
     params:
-      description: "Business collaboration session"
-  - src: "/images/wedding.jpg"
+      tags: ["corporate", "culture"]
+  - src: wedding.jpg
+    title: "Luxury Wedding Cinematography"
     params:
-      description: "Elegant wedding venue"
+      tags: ["events", "wedding"]
 ---
 
-# Welcome to OBS Productions Gallery
-
-Discover the stories behind our most impactful video productions. From dynamic product launches to intimate documentaries, each project represents our commitment to exceptional visual storytelling.
-
-## Featured Collections
-
-Explore our curated collections of video production work, organized by category and style. Each gallery tells a unique story of creative collaboration between our team and our valued clients.
-
----
-
-*Ready to bring your vision to life? [Visit our main site](../frontend/index.html) to start your project.*
+Professional video production services specializing in commercial, corporate, and creative content. Explore our portfolio of premium cinematography and storytelling.
