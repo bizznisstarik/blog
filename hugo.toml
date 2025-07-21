@@ -43,19 +43,34 @@ theme = 'gallery'
     weight = 10
     
   [[menu.main]]
+    name = "Commercial"
+    url = "/commercial/"
+    weight = 20
+    
+  [[menu.main]]
+    name = "Corporate"
+    url = "/corporate/"
+    weight = 30
+    
+  [[menu.main]]
+    name = "Creative"
+    url = "/creative/"
+    weight = 40
+    
+  [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 50
+    
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 20
+    weight = 60
     
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 30
-    
-  [[menu.main]]
-    name = "Main Site"
-    url = "../frontend/index.html"
-    weight = 40
+    weight = 70
 
 [markup]
   [markup.goldmark]
