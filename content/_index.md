@@ -1,37 +1,32 @@
 ---
 title: "OBS Productions"
-subtitle: "Creative Video & Film Production"
-description: "Professional video production portfolio showcasing commercial, corporate, and creative content"
+description: "Professional Video Production Portfolio"
 resources:
   - src: camera-pro.jpg
-    title: "Professional RED Camera Production"
+    title: "RED Camera Production"
     params:
-      tags: ["commercial", "cinematography"]
+      tags: ["commercial"]
   - src: conference.jpg
-    title: "Corporate Conference Coverage"
+    title: "Conference Coverage"
     params:
-      tags: ["corporate", "events"]
+      tags: ["corporate"]
   - src: studio-light.jpg
-    title: "Professional Studio Portraits"
+    title: "Studio Portraits"
     params:
-      tags: ["creative", "studio"]
+      tags: ["creative"]
   - src: photographer.jpg
-    title: "Brand Storytelling Campaign"
+    title: "Brand Storytelling"
     params:
-      tags: ["commercial", "branding"]
+      tags: ["commercial"]
   - src: corporate.jpg
-    title: "Team Collaboration Videos"
+    title: "Team Videos"
     params:
-      tags: ["corporate", "culture"]
+      tags: ["corporate"]
   - src: wedding.jpg
-    title: "Luxury Wedding Cinematography"
+    title: "Wedding Films"
     params:
-      tags: ["events", "wedding"]
+      tags: ["events"]
 params:
   sort_by: "Name"
   sort_order: "asc"
 ---
-
-## Featured Work
-
-Explore our portfolio of professional video production projects across commercial, corporate, and creative content.

@@ -13,8 +13,7 @@ theme = 'gallery'
     email = "info@obsproductions.com"
   
   # Gallery theme specific settings
-  title = "OBS Productions"
-  subtitle = "Creative Video & Film Production"
+  subtitle = "Professional Video Production"
   footer = "&copy; 2025 OBS Productions. All rights reserved."
   
   # Main website link
