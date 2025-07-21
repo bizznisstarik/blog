@@ -1,4 +1,4 @@
-baseURL = 'https://yourusername.github.io/tarik-booking/'
+baseURL = 'https://gallery.obs.productions/'
 languageCode = 'en-us'
 title = 'OBS Productions Gallery'
 theme = 'gallery'
