@@ -2,8 +2,13 @@
 title: "Corporate Team Collaboration Video"
 date: 2024-08-30
 description: "Dynamic corporate video showcasing team collaboration, innovation culture, and workplace environment"
-tags: ["corporate", "team", "culture", "workplace"]
 categories: ["Corporate"]
+weight: 50
+resources:
+  - src: corporate.jpg
+    title: "Team Collaboration in Modern Office"
+    params:
+      cover: true
 ---
 
 ## Corporate Team Collaboration Video
@@ -46,5 +51,3 @@ A dynamic corporate video project highlighting team collaboration, innovative wo
 - Internal communications and training
 
 *Effective corporate videos capture authentic workplace culture while maintaining professional production values that reflect brand standards.*
-
-![Team Collaboration in Modern Office](/images/corporate.jpg)

@@ -2,10 +2,14 @@
 title: "Luxury Wedding Cinematography"
 date: 2024-07-18
 description: "Elegant wedding cinematography capturing intimate moments in beautiful outdoor settings with cinematic quality"
-tags: ["wedding", "cinematography", "luxury", "outdoor"]
 categories: ["Events"]
 featured: true
-weight: 5
+weight: 60
+resources:
+  - src: wedding.jpg
+    title: "Beautiful Wedding Venue with Outdoor Ceremony"
+    params:
+      cover: true
 ---
 
 ## Luxury Wedding Cinematography
@@ -48,5 +52,3 @@ An elegant wedding cinematography project featuring a romantic outdoor ceremony 
 - Candid reception celebrations
 
 *Wedding cinematography requires discretion, anticipation, and the ability to capture authentic emotions while remaining invisible to preserve intimate moments.*
-
-![Beautiful Wedding Venue with Outdoor Ceremony](/images/wedding.jpg)

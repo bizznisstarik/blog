@@ -2,9 +2,13 @@
 title: "Brand Storytelling Campaign"
 date: 2024-09-12
 description: "Comprehensive brand storytelling campaign featuring authentic behind-the-scenes documentation and professional photography"
-tags: ["branding", "storytelling", "documentary", "photography"]
 categories: ["Commercial"]
-weight: 10
+weight: 40
+resources:
+  - src: photographer.jpg
+    title: "Professional Brand Photography Session"
+    params:
+      cover: true
 ---
 
 ## Brand Storytelling Campaign
@@ -47,5 +51,3 @@ An immersive brand storytelling project that captures the authentic essence of a
 - Award nomination for creative storytelling
 
 *Authentic brand storytelling requires patience, trust, and an eye for capturing genuine moments that resonate with audiences.*
-
-![Professional Brand Photography Session](/images/photographer.jpg)

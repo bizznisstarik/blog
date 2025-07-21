@@ -2,9 +2,14 @@
 title: "Corporate Conference Coverage"
 date: 2024-11-20
 description: "Professional multi-day conference documentation with keynote speakers, breakout sessions, and networking events"
-tags: ["corporate", "conference", "live-event", "documentation"]
 categories: ["Corporate"]
 featured: true
+weight: 20
+resources:
+  - src: conference.jpg
+    title: "Modern Conference Room Setup"
+    params:
+      cover: true
 ---
 
 ## Corporate Conference Coverage
@@ -33,5 +38,3 @@ Comprehensive video documentation of a major corporate conference, featuring key
 - Live stream reached 2,000+ remote viewers
 
 *Professional conference documentation that captures every important moment while maintaining the energy and atmosphere of live events.*
-
-![Modern Conference Room Setup](/images/conference.jpg)

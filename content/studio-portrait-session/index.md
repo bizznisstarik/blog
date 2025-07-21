@@ -2,9 +2,14 @@
 title: "Professional Studio Portrait Session"
 date: 2024-10-05
 description: "Executive headshots and brand portraits using professional studio lighting techniques"
-tags: ["portrait", "studio", "executive", "branding"]
 categories: ["Creative"]
 featured: true
+weight: 30
+resources:
+  - src: studio-light.jpg
+    title: "Professional Studio Lighting Setup"
+    params:
+      cover: true
 ---
 
 ## Professional Studio Portrait Session
@@ -40,5 +45,3 @@ High-end studio portrait photography and videography session featuring executive
 - Personal branding campaigns
 
 *Studio portraiture requires technical precision and an understanding of professional image requirements in today's digital landscape.*
-
-![Professional Studio Lighting Setup](/images/studio-light.jpg)

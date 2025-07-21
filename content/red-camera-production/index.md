@@ -2,9 +2,14 @@
 title: "Professional RED Camera Production"
 date: 2024-12-15
 description: "High-end commercial video production featuring RED camera cinematography for premium brand storytelling"
-tags: ["commercial", "red-camera", "cinematography", "brand-story"]
 categories: ["Commercial"]
 featured: true
+weight: 10
+resources:
+  - src: camera-pro.jpg
+    title: "Professional RED Camera Setup"
+    params:
+      cover: true
 ---
 
 ## Professional RED Camera Production
@@ -26,5 +31,3 @@ A showcase of our premium cinematography services using professional RED camera 
 - Advanced lighting design
 
 *This project exemplifies our commitment to delivering cinema-quality content for discerning clients who demand the highest production values.*
-
-![Professional RED Camera Setup](/images/camera-pro.jpg)
