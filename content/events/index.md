@@ -1,21 +1,17 @@
 ---
-title: "Event Coverage"
+title: "Event Coverage" 
 date: 2025-01-20
 description: "Cinematic event documentation from intimate gatherings to large-scale conferences and festivals."
-cover: "/images/wedding.jpg"
-categories: ["Events"]
-featured: true
+weight: 3
+menus: "main"
 resources:
 - src: "/images/wedding.jpg"
-  title: "Elegant Garden Wedding"
   params:
+    cover: true
     description: "Beautiful wedding venue with romantic outdoor ceremony setup"
-    tags: ["Wedding", "Venue", "Romance"]
 - src: "/images/corporate.jpg"
-  title: "Corporate Event Coverage"
   params:
     description: "Professional event documentation and live coverage"
-    tags: ["Corporate", "Events", "Professional"]
 - src: "https://picsum.photos/800/600?random=33"
   title: "Industry Awards Gala"
   params:

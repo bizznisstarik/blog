@@ -2,20 +2,16 @@
 title: "Corporate Videos"
 date: 2025-01-20
 description: "Professional corporate content including training videos, company profiles, and internal communications."
-cover: "/images/conference.jpg"
-categories: ["Corporate"]
-featured: true
+weight: 2
+menus: "main"
 resources:
 - src: "/images/conference.jpg"
-  title: "Corporate Conference Room"
   params:
+    cover: true
     description: "Modern conference room setup for professional meetings and presentations"
-    tags: ["Conference", "Corporate", "Business"]
 - src: "/images/corporate.jpg"
-  title: "Business Collaboration"
   params:
     description: "Team collaboration and strategic planning session"
-    tags: ["Collaboration", "Business", "Strategy"]
 - src: "https://picsum.photos/800/600?random=23"
   title: "Company Culture Video"
   params:

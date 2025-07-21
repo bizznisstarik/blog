@@ -2,25 +2,19 @@
 title: "Commercial Productions"
 date: 2025-01-20
 description: "High-impact commercial videos that tell compelling brand stories and drive results."
-cover: "/images/camera-pro.jpg"
-categories: ["Commercial"]
-featured: true
+weight: 1
+menus: "main"
 resources:
 - src: "/images/camera-pro.jpg"
-  title: "RED Camera Professional Setup"
   params:
+    cover: true
     description: "Professional RED camera setup for high-end commercial production"
-    tags: ["RED Camera", "Professional", "Commercial"]
-- src: "/images/studio-light.jpg"  
-  title: "Studio Lighting Setup"
+- src: "/images/studio-light.jpg"
   params:
     description: "Professional studio lighting for luxury brand cinematography"
-    tags: ["Studio", "Lighting", "Cinematography"]
 - src: "/images/photographer.jpg"
-  title: "Photographer with Camera"
   params:
     description: "Professional photographer capturing brand stories"
-    tags: ["Photography", "Brand Story", "Professional"]
 - src: "https://picsum.photos/800/600?random=14"
   title: "Automotive Commercial"
   params:
