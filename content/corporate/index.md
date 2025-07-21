@@ -2,16 +2,16 @@
 title: "Corporate Videos"
 date: 2025-01-20
 description: "Professional corporate content including training videos, company profiles, and internal communications."
-cover: "https://images.unsplash.com/photo-1686100511314-7d4a52987f2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1200"
+cover: "/images/conference.jpg"
 categories: ["Corporate"]
 featured: true
 resources:
-- src: "https://images.unsplash.com/photo-1686100511314-7d4a52987f2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1200"
+- src: "/images/conference.jpg"
   title: "Corporate Conference Room"
   params:
     description: "Modern conference room setup for professional meetings and presentations"
     tags: ["Conference", "Corporate", "Business"]
-- src: "https://images.unsplash.com/photo-1579389083046-e3df9c2b3325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=850"
+- src: "/images/corporate.jpg"
   title: "Business Collaboration"
   params:
     description: "Team collaboration and strategic planning session"

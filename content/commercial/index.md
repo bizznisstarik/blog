@@ -2,21 +2,21 @@
 title: "Commercial Productions"
 date: 2025-01-20
 description: "High-impact commercial videos that tell compelling brand stories and drive results."
-cover: "https://images.unsplash.com/photo-1526399502219-5989903425b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=800"
+cover: "/images/camera-pro.jpg"
 categories: ["Commercial"]
 featured: true
 resources:
-- src: "https://images.unsplash.com/photo-1526399502219-5989903425b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=800"
+- src: "/images/camera-pro.jpg"
   title: "RED Camera Professional Setup"
   params:
     description: "Professional RED camera setup for high-end commercial production"
     tags: ["RED Camera", "Professional", "Commercial"]
-- src: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=750"  
+- src: "/images/studio-light.jpg"  
   title: "Studio Lighting Setup"
   params:
     description: "Professional studio lighting for luxury brand cinematography"
     tags: ["Studio", "Lighting", "Cinematography"]
-- src: "https://images.unsplash.com/photo-1599601075275-aba0f3649c31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+- src: "/images/photographer.jpg"
   title: "Photographer with Camera"
   params:
     description: "Professional photographer capturing brand stories"

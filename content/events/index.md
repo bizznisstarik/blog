@@ -2,20 +2,20 @@
 title: "Event Coverage"
 date: 2025-01-20
 description: "Cinematic event documentation from intimate gatherings to large-scale conferences and festivals."
-cover: "https://images.unsplash.com/photo-1613089347756-366a788dacf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=70&w=600"
+cover: "/images/wedding.jpg"
 categories: ["Events"]
 featured: true
 resources:
-- src: "https://picsum.photos/800/600?random=31"
-  title: "Summer Music Festival"
-  params:
-    description: "Epic 3-day festival coverage capturing performances, crowds, and behind-the-scenes moments"
-    tags: ["Music", "Festival", "Live Performance"]
-- src: "https://picsum.photos/800/600?random=32"
+- src: "/images/wedding.jpg"
   title: "Elegant Garden Wedding"
   params:
-    description: "Romantic wedding film with drone cinematography and emotional storytelling"
-    tags: ["Wedding", "Drone", "Romance"]
+    description: "Beautiful wedding venue with romantic outdoor ceremony setup"
+    tags: ["Wedding", "Venue", "Romance"]
+- src: "/images/corporate.jpg"
+  title: "Corporate Event Coverage"
+  params:
+    description: "Professional event documentation and live coverage"
+    tags: ["Corporate", "Events", "Professional"]
 - src: "https://picsum.photos/800/600?random=33"
   title: "Industry Awards Gala"
   params:
