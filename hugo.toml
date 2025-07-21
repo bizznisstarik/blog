@@ -1,95 +1,59 @@
-baseURL = 'https://yourusername.github.io/tarik-portfolio/'
+baseURL = 'https://yourusername.github.io/tarik-booking/'
 languageCode = 'en-us'
-title = 'OBS Productions Blog'
-theme = 'PaperMod'
+title = 'OBS Productions Gallery'
+theme = 'gallery'
 
 [params]
-  env = "production"
-  description = "OBS Productions - Creative Video & Film Production Blog"
-  keywords = ["video production", "film", "creative", "commercial", "corporate videos"]
   author = "OBS Productions"
-  DateFormat = "January 2, 2006"
-  defaultTheme = "auto"
-  disableThemeToggle = false
-  ShowReadingTime = true
-  ShowShareButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowWordCount = true
-  ShowRssButtonInSectionTermList = true
-  UseHugoToc = true
-  disableSpecial1stPost = false
-  disableScrollToTop = false
-  comments = false
-  hidemeta = false
-  hideSummary = false
-  showtoc = false
-  tocopen = false
-
-  [params.assets]
-    favicon = "/favicon.ico"
-    favicon16x16 = "/favicon-16x16.png"
-    favicon32x32 = "/favicon-32x32.png"
-    apple_touch_icon = "/apple-touch-icon.png"
-    safari_pinned_tab = "/safari-pinned-tab.svg"
-
-  [params.label]
-    text = "OBS Productions Blog"
-    icon = "/apple-touch-icon.png"
-    iconHeight = 35
-
-  [params.profileMode]
-    enabled = false
-
-  [params.homeInfoParams]
-    Title = "Welcome to OBS Productions Blog"
-    Content = "Creative insights, behind-the-scenes content, and industry news from our video production team."
-
-  [[params.socialIcons]]
-    name = "youtube"
+  description = "OBS Productions - Creative Video & Film Production Portfolio"
+  keywords = ["video production", "film", "creative", "commercial", "corporate videos", "portfolio", "gallery"]
+  
+  # Gallery theme specific settings
+  title = "OBS Productions"
+  subtitle = "Creative Video & Film Production"
+  footer = "&copy; 2025 OBS Productions. All rights reserved."
+  
+  # Main website link
+  main_site = "../frontend/index.html"
+  
+  # Social links
+  [[params.social]]
+    name = "YouTube"
     url = "https://youtube.com"
-
-  [[params.socialIcons]]
-    name = "instagram"
+    icon = "youtube"
+  
+  [[params.social]]
+    name = "Instagram" 
     url = "https://instagram.com"
-
-  [[params.socialIcons]]
-    name = "linkedin"
+    icon = "instagram"
+    
+  [[params.social]]
+    name = "LinkedIn"
     url = "https://linkedin.com"
+    icon = "linkedin"
 
 [menu]
   [[menu.main]]
-    identifier = "home"
     name = "Home"
     url = "/"
     weight = 10
-
+    
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 20
-
-  [[menu.main]]
-    identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 30
-
+    weight = 20
+    
   [[menu.main]]
-    identifier = "contact"
     name = "Contact"
     url = "/contact/"
+    weight = 30
+    
+  [[menu.main]]
+    name = "Main Site"
+    url = "../frontend/index.html"
     weight = 40
 
 [markup]
-  [markup.highlight]
-    noClasses = false
-    codeFences = true
-    guessSyntax = true
-    lineNos = true
-    style = "github"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
