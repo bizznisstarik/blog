@@ -2,7 +2,7 @@
 title: "Event Coverage"
 date: 2025-01-20
 description: "Cinematic event documentation from intimate gatherings to large-scale conferences and festivals."
-cover: "https://picsum.photos/800/600?random=31"
+cover: "https://images.unsplash.com/photo-1613089347756-366a788dacf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=70&w=600"
 categories: ["Events"]
 featured: true
 resources:

@@ -2,20 +2,20 @@
 title: "Corporate Videos"
 date: 2025-01-20
 description: "Professional corporate content including training videos, company profiles, and internal communications."
-cover: "https://picsum.photos/800/600?random=21"
+cover: "https://images.unsplash.com/photo-1686100511314-7d4a52987f2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1200"
 categories: ["Corporate"]
 featured: true
 resources:
-- src: "https://picsum.photos/800/600?random=21"
-  title: "Global Summit 2024"
+- src: "https://images.unsplash.com/photo-1686100511314-7d4a52987f2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1200"
+  title: "Corporate Conference Room"
   params:
-    description: "Multi-camera conference coverage with live streaming for 500+ attendees"
-    tags: ["Conference", "Live Streaming", "Multi-Camera"]
-- src: "https://picsum.photos/800/600?random=22"
-  title: "Employee Training Series"
+    description: "Modern conference room setup for professional meetings and presentations"
+    tags: ["Conference", "Corporate", "Business"]
+- src: "https://images.unsplash.com/photo-1579389083046-e3df9c2b3325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=850"
+  title: "Business Collaboration"
   params:
-    description: "Comprehensive 12-part training video series for Fortune 500 onboarding"
-    tags: ["Training", "Education", "Series"]
+    description: "Team collaboration and strategic planning session"
+    tags: ["Collaboration", "Business", "Strategy"]
 - src: "https://picsum.photos/800/600?random=23"
   title: "Company Culture Video"
   params:

@@ -2,25 +2,25 @@
 title: "Commercial Productions"
 date: 2025-01-20
 description: "High-impact commercial videos that tell compelling brand stories and drive results."
-cover: "https://picsum.photos/800/600?random=11"
+cover: "https://images.unsplash.com/photo-1526399502219-5989903425b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=800"
 categories: ["Commercial"]
 featured: true
 resources:
-- src: "https://picsum.photos/800/600?random=11"
-  title: "TechCorp Product Launch"
+- src: "https://images.unsplash.com/photo-1526399502219-5989903425b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=800"
+  title: "RED Camera Professional Setup"
   params:
-    description: "Dynamic product reveal video generating 2M+ views and 300% pre-order increase"
-    tags: ["Product Launch", "Technology", "Motion Graphics"]
-- src: "https://picsum.photos/800/600?random=12"  
-  title: "Luxury Fashion Campaign"
+    description: "Professional RED camera setup for high-end commercial production"
+    tags: ["RED Camera", "Professional", "Commercial"]
+- src: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=750"  
+  title: "Studio Lighting Setup"
   params:
-    description: "Cinematic brand story showcasing premium craftsmanship and heritage"
-    tags: ["Fashion", "Luxury", "Cinematography"]
-- src: "https://picsum.photos/800/600?random=13"
-  title: "Restaurant Brand Story"
+    description: "Professional studio lighting for luxury brand cinematography"
+    tags: ["Studio", "Lighting", "Cinematography"]
+- src: "https://images.unsplash.com/photo-1599601075275-aba0f3649c31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=900"
+  title: "Photographer with Camera"
   params:
-    description: "Mouth-watering food cinematography increasing bookings by 150%"
-    tags: ["Food & Beverage", "Brand Story", "Social Media"]
+    description: "Professional photographer capturing brand stories"
+    tags: ["Photography", "Brand Story", "Professional"]
 - src: "https://picsum.photos/800/600?random=14"
   title: "Automotive Commercial"
   params:
