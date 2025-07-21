@@ -4,9 +4,13 @@ title = 'OBS Productions Gallery'
 theme = 'gallery'
 
 [params]
-  author = "OBS Productions"
   description = "OBS Productions - Creative Video & Film Production Portfolio"
   keywords = ["video production", "film", "creative", "commercial", "corporate videos", "portfolio", "gallery"]
+  
+  # Author configuration for RSS feed
+  [params.author]
+    name = "OBS Productions"
+    email = "info@obsproductions.com"
   
   # Gallery theme specific settings
   title = "OBS Productions"
@@ -57,3 +61,8 @@ theme = 'gallery'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# Disable RSS if not needed (optional)
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
